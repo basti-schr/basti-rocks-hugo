@@ -2,7 +2,7 @@ baseURL = "http://basti.rocks/"
 languageCode = "DE"
 defaultContentLanguage = "de"
 title = "Basti rocks hugo"
-copyright = "CC-BY-4.0 basti-schr"
+license = "CC-BY-4.0 basti-schr"
 theme = "basics"
 
 [params]
